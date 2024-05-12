@@ -2,14 +2,10 @@
 
 sections in the digital garden :-
 
-- about 
-- projects 
+- about
+- projects
 - blogs/essays
 - garden
-    - seedlings
-    - sporut
-    - plant
-
-
-
-
+  - seedlings
+  - sporut
+  - plant
