@@ -1,6 +1,6 @@
 # digital-garden
 
-sections in the digital garden :-
+## sections in the digital garden :-
 
 - about 
 - projects 
