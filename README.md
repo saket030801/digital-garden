@@ -6,9 +6,9 @@ sections in the digital garden :-
 - projects 
 - blogs/essays
 - garden
-    -- seedlings
-    -- sporut
-    -- plant
+    - seedlings
+    - sporut
+    - plant
 
 
 
